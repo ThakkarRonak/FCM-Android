@@ -1,10 +1,13 @@
+
 # FCM (Firebase Cloud Messaging)
 FCM is just a demo of Android Application which implement Firebase Cloud Messaging. It made for Google I/O Extended 2016 Bangkok 
+
 
 ## Prerequisites
 * Supported Android 2.3 (Gingerbread) and newer
 * Google Play services 9.0.2 or newer
 * Android Studio 1.5 or higher
+
 
 ## Features
 * Subscribe to topics
@@ -14,9 +17,11 @@ FCM is just a demo of Android Application which implement Firebase Cloud Messagi
 * Handle message both **foreground** and **background**
 * Customize notification
 
+
 ## Limitation in the message payload
 * Notification : 2KB limit and a predefined set of user-visible keys
 * Data : 4KB of custom key-value pairs
+
 
 ## Screenshots
 <table>
@@ -30,3 +35,4 @@ FCM is just a demo of Android Application which implement Firebase Cloud Messagi
 ```
 https://docs.google.com/presentation/d/1HPLk1PXaGUjqTlPB6RHsgrTunJNo10kbGZ-JX_7JELw/edit?usp=sharing
 ```
+
